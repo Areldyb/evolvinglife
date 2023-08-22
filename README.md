@@ -15,3 +15,5 @@ The following rules are then applied in order:
 In essence, we're shining some sunlight on the world. Maybe, by chance, something will grow.  
 On a large grid, over a long timespan, I would expect life to arise more frequently in brighter latitudes and to migrate toward darker ones.  
 On a _very_ large grid, over a _very_ long timespan, that life may evolve to gain some resistance to radiation.
+
+The script puts user-editable variables at the top, so users have a lot of fun knobs to tweak!
